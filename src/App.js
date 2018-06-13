@@ -14,9 +14,9 @@ import './index.css'
 const __BACKGROUND_IMAGE_URL__ = "http://snowbirdsgulfcoast.com/wp-content/uploads/2015/09/Dauphin-Island-sunset.jpg"
 
 const __BACKGROUND_IMAGES__ = [
-  "https://i2.wp.com/thelistenersclub.timothyjuddviolin.com/wp-content/uploads/sites/2/2014/03/mountain-sunrise-background-wallpaper-1.jpg?fit=2560%2C1600",
-  "https://static.tripping.com/uploads/image/0/1559/venice-beach-florida.jpg",
-  "https://accuweather.brightspotcdn.com/e7/42/8edb1a6f4343bd2696820566e09a/milky-way.jpeg"
+  "https://fh-sites.imgix.net/sites/60/2015/07/10142053/Fort-W.-DSD-348.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/d/d5/F-35_Lightning_II_variants_in_flight_near_Eglin_AFB_in_2014.jpg",
+  
 ]
 
 class App extends Component {
@@ -41,17 +41,7 @@ class App extends Component {
     var now = new Date()
     var hour = now.getHours()
 
-    var backgroundIndex = 3
-    if (hour >= 5 && hour <= 9) {
-      backgroundIndex = 0
-    }
-    else if (hour > 9 && hour <= 16) {
-      backgroundIndex = 1
-    }
-    else if (hour > 16 && hour <= 20) {
-      backgroundIndex = 2
-    }
-    
+    var backgroundIndex = 1
     var backgroundImage = __BACKGROUND_IMAGES__[backgroundIndex]
     return (
       <div 
