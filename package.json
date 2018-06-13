@@ -4,9 +4,17 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "d3": "^5.4.0",
+    "mapbox-gl": "^0.45.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
-    "react-scripts": "1.1.4"
+    "react-icons-kit": "^1.1.5",
+    "react-map-gl": "^3.2.8",
+    "react-scripts": "1.1.4",
+    "react-scrollbar": "^0.5.4",
+    "react-vis": "^1.9.4",
+    "recharts": "^1.0.0-beta.10",
+    "sankey": "^2.0.2"
   },
   "scripts": {
     "start": "react-scripts start",

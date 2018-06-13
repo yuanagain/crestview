@@ -407,6 +407,8 @@ position: fixed;
   -webkit-animation-iteration-count: infinite;
   animation-direction: alternate;
 }
+
+
 .pan9 {
   position: absolute;
   height: 100%;

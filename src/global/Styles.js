@@ -7,6 +7,11 @@ export const __COMPONENT_STYLES__ = {
 		marginTop: 0,
 		padding: 0,
 	},
+  hline: {
+    height: 2,
+    width: 100,
+    backgroundColor: White(0.8)
+  },
 	navBar: {
 		marginBottom: 0
 	},
@@ -34,7 +39,7 @@ export const __COMPONENT_STYLES__ = {
     marginTop: 0,    
     marginBottom: 0, 
     margin: 0,
-    alignText: 'start',
+    textAlign: 'start',
     fontWeight: 1,
   },
   whiteText: {
@@ -67,10 +72,4 @@ export const __COMPONENT_STYLES__ = {
     marginTop: 0,
     marginBottom: 0,
   },
-  hline: {
-    height: 4,
-    backgroundColor: White(0.6),
-    marginTop: 10,
-    marginBottom: 30
-  }
 }
