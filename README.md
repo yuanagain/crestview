@@ -5,13 +5,16 @@ This project was prototyped for Chief Commissioner Graham Fountain to illustrate
 - React Map GL: https://uber.github.io/react-map-gl/#/
 - React Vis (esp. for Sankeys): https://github.com/uber/react-vis, https://uber.github.io/react-vis/
 
+## Features
+[WIP]
+
+## Model
+Pending data and consultation
+
 ## License
 Copyright Yuan Wang, 2018
 
-
 # Contribution Guide
-
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
