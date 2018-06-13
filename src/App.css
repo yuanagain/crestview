@@ -397,17 +397,16 @@ position: fixed;
 .pan8 {
   position: absolute;
   height: 100%;
-  width: 300%;
+  width: 200%;
   z-index: -1;
-  background-size: auto 100%;
+  background-size: auto 180%;
   background-repeat: no-repeat;
   -webkit-animation-name: MOVE-BG;
-  -webkit-animation-duration: 15s;
+  -webkit-animation-duration: 20s;
   -webkit-animation-timing-function: linear;
   -webkit-animation-iteration-count: infinite;
   animation-direction: alternate;
 }
-
 .pan9 {
   position: absolute;
   height: 100%;
