@@ -1,6 +1,10 @@
 # Crestview Alpha
 This project was prototyped for Chief Commissioner Graham Fountain to illustrate basic model UI development capabilities. Current tools are not yet equipped with economic models but are instead intended to illustrate presentational value and 
 
+## Resources
+- React Map GL: https://uber.github.io/react-map-gl/#/
+- React Vis (esp. for Sankeys): https://github.com/uber/react-vis, https://uber.github.io/react-vis/
+
 ## License
 Copyright Yuan Wang, 2018
 
