@@ -7,14 +7,18 @@
     "d3": "^5.4.0",
     "mapbox-gl": "^0.45.0",
     "react": "^16.4.0",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-d3-map": "^0.8.3",
     "react-dom": "^16.4.0",
     "react-icons-kit": "^1.1.5",
     "react-map-gl": "^3.2.8",
     "react-scripts": "1.1.4",
     "react-scrollbar": "^0.5.4",
+    "react-simple-maps": "^0.12.1",
     "react-vis": "^1.9.4",
     "recharts": "^1.0.0-beta.10",
-    "sankey": "^2.0.2"
+    "sankey": "^2.0.2",
+    "topojson": "^3.0.2"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -12,6 +12,7 @@ import { boldDown } from 'react-icons-kit/entypo/boldDown'
 import { Area, AreaChart, XAxis, YAxis, Tooltip } from 'recharts'
 import ReactMapGL from 'react-map-gl';
 
+
 const __DEV__ = false
 
 export default class MapPane extends Component {
@@ -40,8 +41,10 @@ export default class MapPane extends Component {
 
     return (
       <div style={styles.container}>
+
         <ReactMapGL
           {...this.state.viewport}
+          mapboxApiAccessToken={'pk.eyJ1IjoieXVhbmFnYWluIiwiYSI6ImNqaWNqMHAzNDAxaGIza3F2YWVwb3FsN2gifQ.cxwjkdM71unAsh2Q7zAtCw'}
           onViewportChange={(viewport) => this.setState({viewport})}
         /> 
       </div>
