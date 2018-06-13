@@ -2,8 +2,12 @@
 This project was prototyped for Chief Commissioner Graham Fountain to illustrate basic model UI development capabilities. Current tools are not yet equipped with economic models but are instead intended to illustrate presentational value and 
 
 ## Resources
+*Resources to be explored*
+
 - React Map GL: https://uber.github.io/react-map-gl/#/
 - React Vis (esp. for Sankeys): https://github.com/uber/react-vis, https://uber.github.io/react-vis/
+- D3 Sankey: https://github.com/d3/d3-sankey
+- Palantir Blueprint: http://blueprintjs.com/docs/v2/#blueprint
 
 ## Features
 [WIP]
