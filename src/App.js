@@ -16,7 +16,6 @@ const __BACKGROUND_IMAGE_URL__ = "http://snowbirdsgulfcoast.com/wp-content/uploa
 const __BACKGROUND_IMAGES__ = [
   "https://i2.wp.com/thelistenersclub.timothyjuddviolin.com/wp-content/uploads/sites/2/2014/03/mountain-sunrise-background-wallpaper-1.jpg?fit=2560%2C1600",
   "https://static.tripping.com/uploads/image/0/1559/venice-beach-florida.jpg",
-  "http://www.wsllpaper.com/wp-content/uploads/2014/02/beautiful-evening-sunset-hd-desktop-wallpaper.jpg",
   "https://accuweather.brightspotcdn.com/e7/42/8edb1a6f4343bd2696820566e09a/milky-way.jpeg"
 ]
 
