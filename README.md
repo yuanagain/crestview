@@ -1,5 +1,5 @@
-# Crestview Beta
-This project was prototyped for Chief Commissioner Graham Fountain to illustrate basic model UI development capabilities. 
+# Crestview Alpha
+This project was prototyped for Chief Commissioner Graham Fountain to illustrate basic model UI development capabilities. Current tools are not yet equipped with economic models but are instead intended to illustrate presentational value and 
 
 ## License
 Copyright Yuan Wang, 2018
